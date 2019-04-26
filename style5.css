@@ -1,0 +1,119 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container {
+	background-color: grey;
+	allign-content: center;
+}
+
+.container2 {
+	display: inline-block;
+	margin-left: 660px;
+	margin-right:auto;
+	
+}
+
+.container3 {
+	display: inline-block;
+	margin-left: 660px;
+	margin-right: auto;
+}
+.hopscotch{
+	margin-left: auto;
+	margin-right: auto;
+}
+#number8{
+	font-size: 70px;
+	height: 100px;
+	width: 100px;
+	background-color: plum;
+	text-align:center;
+	color: white;
+	text-shadow: 2px 2px black;
+	align-content: center;
+	margin-bottom: 10px;
+}
+
+#number7 {
+	font-size: 70px;
+	height: 100px;
+	width: 100px;
+	background-color: deepskyblue;
+	text-align:center;
+	color: white;
+	text-shadow: 2px 2px black;
+	float:left;	
+}
+
+#number6 {
+	font-size: 70px;
+	height: 100px;
+	width: 100px;
+	background-color: cyan;
+	text-align:center;
+	color: white;
+	text-shadow: 2px 2px black;
+	float:left;
+	margin-left: 10px;
+	
+}
+
+#number5 {
+	font-size: 70px;
+	height: 100px;
+	width: 100px;
+	background-color: cadetblue;
+	text-align:center;
+	color: white;
+	text-shadow: 2px 2px black;
+	margin-top: 10px;
+}
+
+#number4 {
+	font-size: 70px;
+	height: 100px;
+	width: 100px;
+	background-color: darkgreen;
+	text-align:center;
+	color: white;
+	text-shadow: 2px 2px black;
+	float:left;
+	margin-top: 10px;
+}
+
+#number3 {
+	font-size: 70px;
+	height: 100px;
+	width: 100px;
+	background-color: yellow;
+	text-align:center;
+	color: white;
+	text-shadow: 2px 2px black;
+	float:left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+#number2 {
+	font-size: 70px;
+	height: 100px;
+	width: 100px;
+	background-color: darkorange;
+	text-align:center;
+	color: white;
+	text-shadow: 2px 2px black;
+	margin-top: 10px;
+}
+
+#number1 {
+	font-size: 70px;
+	height: 100px;
+	width: 100px;
+	background-color: darkred;
+	text-align:center;
+	color: white;
+	text-shadow: 2px 2px black;
+	margin-top: 10px
+}
+@media screen{
+}
